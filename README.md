@@ -1,6 +1,6 @@
 # SEL0337
 <h1 align="center">  Projetos em Sistemas Embarcados - Prática 6 </h1>
-> :construction: Finalizado :construction:
+>  :white_check_mark: Finalizado  :white_check_mark:
 A prática consistiu em aplicar os conceitos aprendidos no curso para a execução de dois projetos na Raspberry Pi 3B+: 
 Uso de uma tag RFID para um sistema de segurança e o uso do módulo de câmera para acender um led 3 vezes caso identificasse um rosto.
 
